@@ -1,0 +1,8 @@
+share
+pyvenv.cfg
+*venv
+.vscode
+.env
+*tonconnect-manifest.json
+*__pycache__
+pip-selfcheck.json
